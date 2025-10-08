@@ -43,3 +43,4 @@ let spectrum = fft.analyze();
 ![2.2](assets/2.2.png)
 
 ### Thank You :)
+
